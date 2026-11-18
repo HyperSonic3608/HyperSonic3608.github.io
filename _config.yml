@@ -1,2 +1,7 @@
-title: Davi Sollar
-theme: jekyll-theme-cayman
+title: "Davi Sollar / GItHub Pages"
+author: "Davi Sollar"
+locale: "pt-BR"
+url: "https://hypersonic3608.github.io/"
+repository: "HyperSonic3608/HyperSonic3608.github.io"
+
+theme: "jekyll-theme-minimal"
