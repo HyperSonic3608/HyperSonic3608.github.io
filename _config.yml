@@ -3,8 +3,3 @@ author: "Davi Sollar"
 locale: "pt-BR"
 url: "https://hypersonic3608.github.io/"
 repository: "HyperSonic3608/HyperSonic3608.github.io"
-
-theme: "minima"
-
-minima:
-    skin: dark
