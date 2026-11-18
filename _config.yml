@@ -1,5 +1,9 @@
-title: "Davi Sollar / GItHub Pages"
+title: "Davi Sollar"
 author: "Davi Sollar"
+description: "Repositórios"
 locale: "pt-BR"
 url: "https://hypersonic3608.github.io/"
 repository: "HyperSonic3608/HyperSonic3608.github.io"
+
+markdown: kramdown
+highlighter: rouge
