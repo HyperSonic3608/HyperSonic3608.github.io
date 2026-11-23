@@ -35,7 +35,7 @@
 
 <!--Habilidades-->
 <div align="center">
-    <h3><picture><source srcset="https://api.iconify.design/fa-solid/code.svg?color=%23f0f6fc&width=20" media="(prefers-color-scheme: dark)" alt="ícone de código"/><img src="https://api.iconify.design/fa-solid/code.svg?color=1f2328&width=20" alt="ícone de código"  align="top" /></picture>&nbsp;Linguagens e Ferramentas:</h3>
+    <h3><picture><source srcset="https://api.iconify.design/fa-solid/code.svg?color=%23f0f6fc&width=20" media="(prefers-color-scheme: dark)" alt="ícone de código"/><img src="https://api.iconify.design/fa-solid/code.svg?color=1f2328&width=20" alt="ícone de código" /></picture>&nbsp;Linguagens e Ferramentas:</h3>
     <h4>Front-end:</h4>
     <!--HTML-->
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
